@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Mail Client</string>
+    <string name="hello_world">Hello World</string>
+    <string name="send">Send</string>
+    <string name="email_body">This is Email body</string>
+    <string name="toAddr">rajasinghsamuelb@karunya.edu.in</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_body">Enter Email body</string>
+</resources>

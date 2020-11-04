@@ -1,0 +1,24 @@
+
+k	java:S116"PRename this field "_port" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üë×|8üûƒÙ.
+l	java:S116"PRename this field "_pass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‰8üûƒÙ.
+w	java:S116#"VRename this field "_debuggable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¹íÆúÿÿÿÿ8üûƒÙ.
+b	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(ßİ¹ 8üûƒÙ.
+t	java:S116"SRename this field "_subject" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÁµÏÿÿÿÿÿ8üûƒÙ.
+l	java:S116"PRename this field "_body" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š½÷ó8üûƒÙ.
+l	java:S116"QRename this field "_sport" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿç‰8üûƒÙ.
+F
+java:S1068"*Remove this unused "_sport" private field.(Ÿç‰8üûƒÙ.
+e
+java:S3252]"CUse static access with "javax.mail.Message$RecipientType" for "TO".(ÜŸõ”ùÿÿÿÿ8üûƒÙ.
+o	java:S116"NRename this field "_to" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾®”şÿÿÿÿ8üûƒÙ.
+n	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‰äÍ8üûƒÙ.
+W
+java:S1161P":Add the "@Override" annotation above this method signature(‡èú×8üûƒÙ.
+k	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÇÍé8üûƒÙ.
+l	java:S116"PRename this field "_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãçâï8üûƒÙ.
+l	java:S116!"PRename this field "_auth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãœ›Š8üûƒÙ.
+l
+java:S1192("ODefine a constant instead of duplicating this literal "smtp.gmail.com" 3 times.(¾¡Î‡8üûƒÙ.
+q	java:S116"PRename this field "_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÍÌ—ûÿÿÿÿ8üûƒÙ.
+q	java:S116"PRename this field "_host" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿšçüÿÿÿÿ8üûƒÙ.
+p	java:S116%"URename this field "_multipart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¯–`8üûƒÙ.

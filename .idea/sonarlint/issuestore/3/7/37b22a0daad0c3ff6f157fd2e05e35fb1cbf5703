@@ -1,0 +1,26 @@
+
+R
+java:S1874-"5Remove this use of "onPostExecute"; it is deprecated.(¹ï•é8»—âÙ.
+g
+java:S1874$"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ8»—âÙ.
+S
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(æãêııÿÿÿÿ8»—âÙ.
+N
+java:S1874&",Remove this use of "show"; it is deprecated.(±­Áşÿÿÿÿÿ8»—âÙ.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8ìÁæÙ.
+}
+java:S11922"`Define a constant instead of duplicating this literal "rajasinghsamuelb@karunya.edu.in" 3 times.(Ú–€Ç8ÊçÙ.
+U
+java:S2589'"8Remove this expression which always evaluates to "false"(šÏ¦ˆ8µùÇ‘Ù.
+l
+java:S1874,"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û¶…óøÿÿÿÿ8»—âÙ.
+X
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ8»—âÙ.
+P
+java:S1874%"4Remove this use of "onPreExecute"; it is deprecated.(”•P8»—âÙ.
+X
+java:S1874&"6Remove this use of "ProgressDialog"; it is deprecated.(±­Áşÿÿÿÿÿ8»—âÙ.
+—
+java:S2159'"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(šÏ¦ˆ8µùÇ‘Ù.
+Q
+java:S1874"/Remove this use of "execute"; it is deprecated.(”Ê›İûÿÿÿÿ8»§ñÙ.
